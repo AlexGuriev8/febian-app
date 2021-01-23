@@ -1,0 +1,37 @@
+.text-center {
+  text-align: center;
+}
+
+.fnt-size {
+  font-size: 3rem;
+}
+
+.pd-2 {
+  padding: .5rem;
+}
+
+.pd-3 {
+  padding: 1rem;
+}
+
+.febian_input{
+  background-color: rgb(56, 54, 52);
+  padding: 9px;
+  border-radius: 4px;
+  color: aliceblue;
+}
+
+.card {
+  background-color:  rgb(56, 54, 52);
+  width: 300px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+}
+
+.card_list{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top:35px;
+}
